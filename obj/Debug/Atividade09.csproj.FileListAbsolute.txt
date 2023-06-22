@@ -1,0 +1,7 @@
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\bin\Debug\Atividade09.exe.config
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\bin\Debug\Atividade09.exe
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\bin\Debug\Atividade09.pdb
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.AssemblyReference.cache
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.CoreCompileInputs.cache
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\obj\Debug\Atividade09.exe
+D:\Users\bruno.mapinheiro\source\repos\Atividade09\Atividade09\obj\Debug\Atividade09.pdb
